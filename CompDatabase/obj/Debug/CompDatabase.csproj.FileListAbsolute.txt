@@ -13,3 +13,4 @@ C:\Users\malad\source\repos\CompDatabase\CompDatabase\obj\Debug\CompDatabase.csp
 C:\Users\malad\source\repos\CompDatabase\CompDatabase\obj\Debug\CompDatabase.csproj.CopyComplete
 C:\Users\malad\source\repos\CompDatabase\CompDatabase\obj\Debug\CompDatabase.dll
 C:\Users\malad\source\repos\CompDatabase\CompDatabase\obj\Debug\CompDatabase.pdb
+C:\Users\malad\source\repos\CompDatabase\CompDatabase\obj\Debug\CompDatabase.csprojAssemblyReference.cache

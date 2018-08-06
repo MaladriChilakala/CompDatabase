@@ -55,8 +55,6 @@ namespace CompDatabase
             driverff.FindElement(By.Id("introduced")).SendKeys("2012-03-20");
             driverff.FindElement(By.Id("discontinued")).Clear();
             driverff.FindElement(By.Id("discontinued")).SendKeys("2013-02-20");
-            driverff.FindElement(By.Id("company")).Clear();
-            driverff.FindElement(By.Id("company")).SendKeys("Apple");
             driverff.FindElement(By.XPath("/html/body/section/form[1]/div/input")).Click();
         }
 
