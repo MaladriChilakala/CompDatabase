@@ -1,0 +1,15 @@
+C:\Users\malad\source\repos\CompDatabase\CompDatabase\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\malad\source\repos\CompDatabase\CompDatabase\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\malad\source\repos\CompDatabase\CompDatabase\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\malad\source\repos\CompDatabase\CompDatabase\bin\Debug\CompDatabase.dll
+C:\Users\malad\source\repos\CompDatabase\CompDatabase\bin\Debug\CompDatabase.pdb
+C:\Users\malad\source\repos\CompDatabase\CompDatabase\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\malad\source\repos\CompDatabase\CompDatabase\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\malad\source\repos\CompDatabase\CompDatabase\bin\Debug\WebDriver.dll
+C:\Users\malad\source\repos\CompDatabase\CompDatabase\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\malad\source\repos\CompDatabase\CompDatabase\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\malad\source\repos\CompDatabase\CompDatabase\bin\Debug\WebDriver.xml
+C:\Users\malad\source\repos\CompDatabase\CompDatabase\obj\Debug\CompDatabase.csproj.CoreCompileInputs.cache
+C:\Users\malad\source\repos\CompDatabase\CompDatabase\obj\Debug\CompDatabase.csproj.CopyComplete
+C:\Users\malad\source\repos\CompDatabase\CompDatabase\obj\Debug\CompDatabase.dll
+C:\Users\malad\source\repos\CompDatabase\CompDatabase\obj\Debug\CompDatabase.pdb
